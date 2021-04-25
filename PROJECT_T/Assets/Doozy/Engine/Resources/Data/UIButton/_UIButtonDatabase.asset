@@ -17,6 +17,12 @@ MonoBehaviour:
   - Custom
   - Example
   - General
+  - Main
+  - Lobby
+  - Ingame
   Categories:
   - {fileID: 11400000, guid: 40f9e81ff80114a47a3721228ba749ed, type: 2}
   - {fileID: 11400000, guid: b55006a04ab5a5e458d5092925a0f1dd, type: 2}
+  - {fileID: 11400000, guid: bce5f20b3d3f4cc4087a7b1b842fb4cd, type: 2}
+  - {fileID: 11400000, guid: 7280ad83318c20c4f8e4de648ebdb65d, type: 2}
+  - {fileID: 11400000, guid: ba64d59cd12f7544da81c58efc9f50fc, type: 2}
