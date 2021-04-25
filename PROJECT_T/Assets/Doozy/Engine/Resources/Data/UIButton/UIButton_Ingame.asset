@@ -14,4 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CategoryName: Ingame
   DatabaseType: 0
-  Names: []
+  Names:
+  - BT1
+  - BT2
+  - BT3
+  - BT4
+  - BT5
