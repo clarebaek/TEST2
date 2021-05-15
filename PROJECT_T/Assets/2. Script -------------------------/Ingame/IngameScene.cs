@@ -32,6 +32,10 @@ public class IngameScene : MonoBehaviour
     private void InitButtonList()
     {
         buttonPOP = GameObject.FindWithTag("UIPopup");
+        if(buttonPOP == null)
+        {
+            return;
+        }
         buttonPOP.SetActive(false);
 
         var temp = GameObject.FindGameObjectsWithTag("UIButton");

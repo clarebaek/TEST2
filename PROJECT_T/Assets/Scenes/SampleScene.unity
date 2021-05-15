@@ -2411,7 +2411,8 @@ MonoBehaviour:
       Event:
         m_PersistentCalls:
           m_Calls: []
-      GameEvents: []
+      GameEvents:
+      - ClickCapsuleBuilding
       SoundData:
         SoundSource: 0
         DatabaseName: General
@@ -7626,7 +7627,8 @@ MonoBehaviour:
       Event:
         m_PersistentCalls:
           m_Calls: []
-      GameEvents: []
+      GameEvents:
+      - ClickSphereBuilding
       SoundData:
         SoundSource: 0
         DatabaseName: General
@@ -10038,7 +10040,8 @@ MonoBehaviour:
       Event:
         m_PersistentCalls:
           m_Calls: []
-      GameEvents: []
+      GameEvents:
+      - ClickCubeBuilding
       SoundData:
         SoundSource: 0
         DatabaseName: General
